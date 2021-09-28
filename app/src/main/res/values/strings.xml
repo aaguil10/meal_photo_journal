@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Meal Photo Journal</string>
+    <string name="take_photo_btn_text">Take Photo</string>
 </resources>
